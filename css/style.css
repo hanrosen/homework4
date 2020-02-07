@@ -92,6 +92,7 @@ header{
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
   color: white;
+  background-color: #4D4D4D;
   height: 400px;                /* Parallax effect */
 
   /* Your code here */
